@@ -1,0 +1,261 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/backGround/gameBackground.jpg</file>
+        <file>res/backGround/chooseCardBar.png</file>
+        <file>res/plantsCard/sunFlowerCard.png</file>
+        <file>res/plantsCard/greenPeasShooterCard.png</file>
+        <file>res/plantsCard/doubleGreenPeasShooterCard.png</file>
+        <file>res/plantsCard/normalNutCard.png</file>
+        <file>res/plantsCard/potatoTNTCard.png</file>
+        <file>res/plantsCard/snowShooterCard.png</file>
+        <file>res/Media/gameBeginChooseCard.mp3</file>
+        <file>res/plantsCard/darkCard/Dark-sunFlowerCard.png</file>
+        <file>res/plantsCard/darkCard/Dark-doubleGreenPeasShooterCard.png</file>
+        <file>res/plantsCard/darkCard/Dark-greenPeasShooterCard.png</file>
+        <file>res/plantsCard/darkCard/Dark-normalNutCard.png</file>
+        <file>res/plantsCard/darkCard/Dark-potatoTNTCard.png</file>
+        <file>res/plantsCard/darkCard/Dark-snowShooterCard.png</file>
+        <file>res/Media/sunshineNotEnoughMusic.mp3</file>
+        <file>res/plantsCard/darkCard/coolDownDark.png</file>
+        <file>res/Media/choosePlant.wav</file>
+        <file>res/Media/gameBeginChooseCard.wav</file>
+        <file>res/backGround/gameBeginRed/gameBegin-Plant.png</file>
+        <file>res/backGround/gameBeginRed/gameBegin-Ready.png</file>
+        <file>res/backGround/gameBeginRed/gameBegin-Set.png</file>
+        <file>res/Media/ReadySetPlant.wav</file>
+        <file>res/Media/pvzDayMusic.wav</file>
+        <file>res/Media/setPlant.mp3</file>
+        <file>res/Media/setPlant.wav</file>
+        <file>res/plants/sunflower/a (1).png</file>
+        <file>res/plants/sunflower/a (2).png</file>
+        <file>res/plants/sunflower/a (3).png</file>
+        <file>res/plants/sunflower/a (4).png</file>
+        <file>res/plants/sunflower/a (5).png</file>
+        <file>res/plants/sunflower/a (6).png</file>
+        <file>res/plants/sunflower/a (7).png</file>
+        <file>res/plants/sunflower/a (8).png</file>
+        <file>res/plants/sunflower/a (9).png</file>
+        <file>res/plants/sunflower/a (10).png</file>
+        <file>res/plants/sunflower/a (11).png</file>
+        <file>res/plants/sunflower/a (12).png</file>
+        <file>res/plants/sunflower/a (13).png</file>
+        <file>res/plants/sunflower/a (14).png</file>
+        <file>res/plants/sunflower/a (15).png</file>
+        <file>res/plants/sunflower/a (16).png</file>
+        <file>res/plants/sunflower/a (17).png</file>
+        <file>res/plants/sunflower/a (18).png</file>
+        <file>res/plants/sunflower/a (19).png</file>
+        <file>res/plants/sunflower/a (20).png</file>
+        <file>res/plants/sunflower/a (21).png</file>
+        <file>res/plants/sunflower/a (22).png</file>
+        <file>res/plants/sunflower/a (23).png</file>
+        <file>res/plants/sunflower/a (24).png</file>
+        <file>res/plants/sunflower/a (25).png</file>
+        <file>res/plants/sunflower/a (26).png</file>
+        <file>res/plants/sunflower/a (27).png</file>
+        <file>res/plants/greenPeasShooter/a (1).png</file>
+        <file>res/plants/greenPeasShooter/a (2).png</file>
+        <file>res/plants/greenPeasShooter/a (3).png</file>
+        <file>res/plants/greenPeasShooter/a (4).png</file>
+        <file>res/plants/greenPeasShooter/a (5).png</file>
+        <file>res/plants/greenPeasShooter/a (6).png</file>
+        <file>res/plants/greenPeasShooter/a (7).png</file>
+        <file>res/plants/greenPeasShooter/a (8).png</file>
+        <file>res/plants/greenPeasShooter/a (9).png</file>
+        <file>res/plants/greenPeasShooter/a (10).png</file>
+        <file>res/plants/greenPeasShooter/a (11).png</file>
+        <file>res/plants/greenPeasShooter/a (12).png</file>
+        <file>res/plants/greenPeasShooter/a (13).png</file>
+        <file>res/plants/snowShooter/a (1).png</file>
+        <file>res/plants/snowShooter/a (2).png</file>
+        <file>res/plants/snowShooter/a (3).png</file>
+        <file>res/plants/snowShooter/a (4).png</file>
+        <file>res/plants/snowShooter/a (5).png</file>
+        <file>res/plants/snowShooter/a (6).png</file>
+        <file>res/plants/snowShooter/a (7).png</file>
+        <file>res/plants/snowShooter/a (8).png</file>
+        <file>res/plants/snowShooter/a (9).png</file>
+        <file>res/plants/snowShooter/a (10).png</file>
+        <file>res/plants/snowShooter/a (11).png</file>
+        <file>res/plants/snowShooter/a (12).png</file>
+        <file>res/plants/snowShooter/a (13).png</file>
+        <file>res/plants/snowShooter/a (14).png</file>
+        <file>res/plants/snowShooter/a (15).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (1).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (2).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (3).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (4).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (5).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (6).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (7).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (8).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (9).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (10).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (11).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (12).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (13).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (14).png</file>
+        <file>res/plants/doubleGreenPeasShooter/a (15).png</file>
+        <file>res/plants/potatoTNTBegin/a (1).png</file>
+        <file>res/plants/normalNut/a (1).png</file>
+        <file>res/plants/normalNut/a (2).png</file>
+        <file>res/plants/normalNut/a (3).png</file>
+        <file>res/plants/normalNut/a (4).png</file>
+        <file>res/plants/normalNut/a (5).png</file>
+        <file>res/plants/normalNut/a (6).png</file>
+        <file>res/plants/normalNut/a (7).png</file>
+        <file>res/plants/normalNut/a (8).png</file>
+        <file>res/plants/normalNut/a (9).png</file>
+        <file>res/plants/normalNut/a (10).png</file>
+        <file>res/plants/normalNut/a (11).png</file>
+        <file>res/plants/normalNut/a (12).png</file>
+        <file>res/plants/normalNut/a (13).png</file>
+        <file>res/plants/normalNut/a (14).png</file>
+        <file>res/plants/normalNut/a (15).png</file>
+        <file>res/plants/normalNut/a (16).png</file>
+        <file>res/zombies/stand/normalZombie/a (1).png</file>
+        <file>res/zombies/stand/normalZombie/a (2).png</file>
+        <file>res/zombies/stand/normalZombie/a (3).png</file>
+        <file>res/zombies/stand/normalZombie/a (4).png</file>
+        <file>res/zombies/stand/normalZombie/a (5).png</file>
+        <file>res/zombies/stand/normalZombie/a (6).png</file>
+        <file>res/zombies/stand/normalZombie/a (7).png</file>
+        <file>res/zombies/stand/normalZombie/a (8).png</file>
+        <file>res/zombies/stand/normalZombie/a (9).png</file>
+        <file>res/zombies/stand/normalZombie/a (10).png</file>
+        <file>res/zombies/stand/normalZombie/a (11).png</file>
+        <file>res/mouse/mouse.png</file>
+        <file>res/zombies/stand/icecreamZombie/a (1).png</file>
+        <file>res/zombies/stand/icecreamZombie/a (2).png</file>
+        <file>res/zombies/stand/icecreamZombie/a (3).png</file>
+        <file>res/zombies/stand/icecreamZombie/a (4).png</file>
+        <file>res/zombies/stand/icecreamZombie/a (5).png</file>
+        <file>res/zombies/stand/icecreamZombie/a (6).png</file>
+        <file>res/zombies/stand/icecreamZombie/a (7).png</file>
+        <file>res/zombies/stand/icecreamZombie/a (8).png</file>
+        <file>res/zombies/walk/normalZombie/a (1).png</file>
+        <file>res/zombies/walk/normalZombie/a (2).png</file>
+        <file>res/zombies/walk/normalZombie/a (3).png</file>
+        <file>res/zombies/walk/normalZombie/a (4).png</file>
+        <file>res/zombies/walk/normalZombie/a (5).png</file>
+        <file>res/zombies/walk/normalZombie/a (6).png</file>
+        <file>res/zombies/walk/normalZombie/a (7).png</file>
+        <file>res/zombies/walk/normalZombie/a (8).png</file>
+        <file>res/zombies/walk/normalZombie/a (9).png</file>
+        <file>res/zombies/walk/normalZombie/a (10).png</file>
+        <file>res/zombies/walk/normalZombie/a (11).png</file>
+        <file>res/zombies/walk/normalZombie/a (12).png</file>
+        <file>res/zombies/walk/normalZombie/a (13).png</file>
+        <file>res/zombies/walk/normalZombie/a (14).png</file>
+        <file>res/zombies/walk/normalZombie/a (15).png</file>
+        <file>res/zombies/walk/normalZombie/a (16).png</file>
+        <file>res/zombies/walk/normalZombie/a (17).png</file>
+        <file>res/zombies/walk/normalZombie/a (18).png</file>
+        <file>res/zombies/walk/normalZombie/a (19).png</file>
+        <file>res/zombies/walk/normalZombie/a (20).png</file>
+        <file>res/zombies/walk/normalZombie/a (21).png</file>
+        <file>res/zombies/walk/normalZombie/a (22).png</file>
+        <file>res/zombies/eat/normalZombie/a (1).png</file>
+        <file>res/zombies/eat/normalZombie/a (2).png</file>
+        <file>res/zombies/eat/normalZombie/a (3).png</file>
+        <file>res/zombies/eat/normalZombie/a (4).png</file>
+        <file>res/zombies/eat/normalZombie/a (5).png</file>
+        <file>res/zombies/eat/normalZombie/a (6).png</file>
+        <file>res/zombies/eat/normalZombie/a (7).png</file>
+        <file>res/zombies/eat/normalZombie/a (8).png</file>
+        <file>res/zombies/eat/normalZombie/a (9).png</file>
+        <file>res/zombies/eat/normalZombie/a (10).png</file>
+        <file>res/zombies/eat/normalZombie/a (11).png</file>
+        <file>res/zombies/eat/normalZombie/a (12).png</file>
+        <file>res/Media/eatPlants.wav</file>
+        <file>res/zombies/walk/icecreamZombie/a (1).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (2).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (3).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (4).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (5).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (6).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (7).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (8).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (9).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (10).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (11).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (12).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (13).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (14).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (15).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (16).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (17).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (18).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (19).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (20).png</file>
+        <file>res/zombies/walk/icecreamZombie/a (21).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (1).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (2).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (3).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (4).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (5).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (6).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (7).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (8).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (9).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (10).png</file>
+        <file>res/zombies/eat/icecreamZombie/a (11).png</file>
+        <file>res/peas/greenPeas.png</file>
+        <file>res/Media/plantPuke.wav</file>
+        <file>res/Media/peaHitZombie.wav</file>
+        <file>res/Media/peaHitZombie.mp3</file>
+        <file>res/zombieDead/a (1).png</file>
+        <file>res/zombieDead/a (2).png</file>
+        <file>res/zombieDead/a (3).png</file>
+        <file>res/zombieDead/a (4).png</file>
+        <file>res/zombieDead/a (5).png</file>
+        <file>res/zombieDead/a (6).png</file>
+        <file>res/zombieDead/a (7).png</file>
+        <file>res/zombieDead/a (8).png</file>
+        <file>res/zombieDead/a (9).png</file>
+        <file>res/zombieDead/a (10).png</file>
+        <file>res/peas/Hite.png</file>
+        <file>res/peas/snowPeas.png</file>
+        <file>res/Media/setIce.wav</file>
+        <file>res/potatoTNT/a (1).png</file>
+        <file>res/potatoTNT/a (2).png</file>
+        <file>res/potatoTNT/a (3).png</file>
+        <file>res/potatoTNT/a (4).png</file>
+        <file>res/potatoTNT/a (5).png</file>
+        <file>res/potatoTNT/a (6).png</file>
+        <file>res/potatoTNT/a (7).png</file>
+        <file>res/potatoTNT/a (8).png</file>
+        <file>res/Media/potatoTNTBang.wav</file>
+        <file>res/Media/potatoTNTBang.mp3</file>
+        <file>res/potatoTNT/potatoTNTBang.png</file>
+        <file>res/smallCar/car.png</file>
+        <file>res/Media/smallCarStart.wav</file>
+        <file>res/spade/spade.png</file>
+        <file>res/spade/spadeWidget.png</file>
+        <file>res/Media/spade.mp3</file>
+        <file>res/sunshine/a (1).png</file>
+        <file>res/sunshine/a (2).png</file>
+        <file>res/sunshine/a (3).png</file>
+        <file>res/sunshine/a (4).png</file>
+        <file>res/sunshine/a (5).png</file>
+        <file>res/sunshine/a (6).png</file>
+        <file>res/sunshine/a (7).png</file>
+        <file>res/sunshine/a (8).png</file>
+        <file>res/sunshine/a (9).png</file>
+        <file>res/sunshine/a (10).png</file>
+        <file>res/sunshine/a (11).png</file>
+        <file>res/sunshine/a (12).png</file>
+        <file>res/sunshine/a (13).png</file>
+        <file>res/sunshine/a (14).png</file>
+        <file>res/sunshine/a (15).png</file>
+        <file>res/sunshine/a (16).png</file>
+        <file>res/sunshine/a (17).png</file>
+        <file>res/sunshine/a (18).png</file>
+        <file>res/sunshine/a (19).png</file>
+        <file>res/sunshine/a (20).png</file>
+        <file>res/sunshine/a (21).png</file>
+        <file>res/sunshine/a (22).png</file>
+        <file>res/Media/getSunshine.wav</file>
+        <file>res/Media/zombieComing.mp3</file>
+    </qresource>
+</RCC>
